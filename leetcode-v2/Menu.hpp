@@ -8,4 +8,10 @@ private:
 	void printLevelOrder(TreeNode* root);
 public:
 	void menuReverseOddLevels();
+    void menuMaxLength();
+    void menuZigzag();
+    void menuMaxAdjDist();
+    void menuSubarraySum();
+    void menuMaxFreqDiff();
+    void menuSumGoodNumbers();
 };

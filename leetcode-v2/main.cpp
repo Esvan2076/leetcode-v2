@@ -4,8 +4,13 @@ int main()
 {
     Menu menu;
 
-    // Primer problema de leetcode-next
-    menu.menuReverseOddLevels();
+    //menu.menuReverseOddLevels();
+    //menu.menuMaxLength();
+    //menu.menuZigzag();
+    //menu.menuMaxAdjDist();
+    //menu.menuSubarraySum();
+    //menu.menuMaxFreqDiff();
+    menu.menuSumGoodNumbers();
 
 	return 0;
 }
